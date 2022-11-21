@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "BrevardPC.com",
+    "description": "",
+    "home_page_url": "https://brevardpc.com",
+    "feed_url": "https://brevardpc.com/feed.json",
+    "user_comment": "",
+    "icon": "https://brevardpc.com/media/website/questions-answers-signage-208494.jpg",
+    "author": {
+        "name": "Eric Douglas"
+    },
+    "items": [
+        {
+            "id": "https://brevardpc.com/brevardpccom.html",
+            "url": "https://brevardpc.com/brevardpccom.html",
+            "title": "BrevardPC.com",
+            "summary": "Technology is ever changing in the world, we enjoy keeping informed and knowledgeable about was we can help businesses best utilize the innovations of todays top talent. If you struggle with keeping up to date on the most effective ways to modernize your business we&hellip;",
+            "content_html": "<p>Technology is ever changing in the world, we enjoy keeping informed and knowledgeable about was we can help businesses best utilize the innovations of todays top talent.  If you struggle with keeping up to date on the most effective ways to modernize your business we would enjoy to be your trusted advisor to help find solutions to the areas that would benefit the most for your company.</p>",
+            "author": {
+                "name": "Eric Douglas"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-21T16:14:42-05:00",
+            "date_modified": "2022-11-21T17:00:53-05:00"
+        }
+    ]
+}
